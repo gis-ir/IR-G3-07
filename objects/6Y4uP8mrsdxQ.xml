@@ -4,5 +4,10 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Descripción de actores de negocio actuales]]></stringProperty>
     <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="5JrY6D8usunE"/>
+    <child id="3uHzbdhXvH4f"/>
+    <child id="7Exw84CXibuq"/>
+    <child id="3vQG9mL4UGo5"/>
+  </children>
 </object>
