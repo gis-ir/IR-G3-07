@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4LaoRGnQ39ng" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-11</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[El entorno de software en el centro C.R.O.A. se basa en herramientas simples y no especializadas, siendo Microsoft Excel la principal, utilizada para el control de los alumnos, la gestión de pagos, y la organización de horarios y aforos, todo de manera manual. Para la comunicación con los padres y la administración de avisos, recordatorios de pago y firma de documentos, el personal utiliza WhatsApp, lo que implica una gestión personalizada y reiterativa. Además, la promoción y difusión de actividades se realizan a través de la cuenta de Instagram, donde se publican videos de las actividades con los niños. Si bien estas herramientas permiten el manejo básico de las operaciones, la información está dispersa, lo que dificulta la centralización y acceso eficiente a los datos necesarios para la toma de decisiones y la administración del centro.]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
