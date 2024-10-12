@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7QS6scbJDvzU" classes="meeting" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Primera reunión]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="detail">2024-09-26</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <timeProperty name="time" category="detail">10:30:00</timeProperty>
+    <stringProperty name="place" category="detail"><![CDATA[Instalaciones de CROA]]></stringProperty>
+    <traceProperty name="attenders" category="detail" acceptedTargets="stakeholder" traceType=":Proteus-information-source">
+      <trace target="5Azx5n2RYMF5" traceType=":Proteus-information-source"/>
+      <trace target="38NEMGLXtn8J" traceType=":Proteus-information-source"/>
+      <trace target="5h9vcFahnxDu" traceType=":Proteus-information-source"/>
+      <trace target="3qQTqA7Vxumc" traceType=":Proteus-information-source"/>
+      <trace target="Y3CXsyw8DM43" traceType=":Proteus-information-source"/>
+      <trace target="3W8teVcEJH4e" traceType=":Proteus-information-source"/>
+    </traceProperty>
+    <markdownProperty name="results" category="results"><![CDATA[Primera toma de contacto con la empresa, donde expusimos de qué trataría el proyecto y el encargado nos introdujo las características de la empresa, los problemas que han identificado y las implementaciones que ven indispensables para la comodidad de su trabajo.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[Buena comunicación y se tomaron notas de los requisitos.]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
