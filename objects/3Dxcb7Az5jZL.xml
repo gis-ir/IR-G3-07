@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3Dxcb7Az5jZL" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-12</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[Psicopedagogía: una ciencia social relativamente nueva, estudia los comportamientos humanos vinculados a la educación, el aprendizaje y las orientaciones vocacionales. Su objetivo principal es optimizar los métodos didácticos y pedagógicos involucrados en el proceso de aprendizaje.
+
+
+Psicología: es la disciplina que examina la mente y el comportamiento humano, con el fin de entender y explicar nuestros pensamientos y emociones, y así contribuir a mejorar el bienestar y las interacciones sociales.
+
+
+Pedagogía: disciplina que se centra en la educación y la enseñanza, con especial énfasis en la infancia.
+
+
+Educación ordinaria: se refiere a la educación impartida de forma generalizada en colegios e institutos, que trata las materias comunes como matemáticas, lengua y literatura castellana, inglés, ciencias sociales…
+
+
+Educación especial: es la educación que se ofrece a los chicos con problemas y enfermedades que afectan al correcto desarrollo educacional y social. Los chicos con Síndrome de Asperger, TDAH, Autismo severo, Síndrome de Down… son aquellos que reciben este tipo de educación y de forma individual. No en grupo como sí sucede en la educación ordinaria.
+
+
+Logopedia: campo científico y clínico dedicado al estudio, prevención, evaluación, diagnóstico e intervención de alteraciones y trastornos relacionados con la comunicación y el lenguaje (oral y escrito).
+
+
+Psicología Clínica: área de la psicología dedicada a investigar, evaluar, diagnosticar, tratar y prevenir factores que afectan la salud mental y la conducta adaptativa, en situaciones que puedan provocar malestar subjetivo y sufrimiento en la persona.
+
+
+Psicología educativa: área de la psicología que investiga los procesos de cambio en las personas como resultado de su interacción con instituciones educativas, ya sean formales o informales (escuelas, familias, etc.).
+
+
+Síndrome de Asperger: trastorno del neurodesarrollo que se caracteriza por notables dificultades en la interacción social y la comunicación no verbal, además de comportamientos e intereses limitados y repetitivos.
+
+
+TDAH: trastorno por déficit de atención con hiperactividad.
+
+
+Trastorno del espectro Autista: también llamado de forma acortada Autismo, se distingue por deficiencias duraderas en la comunicación social y en la interacción en diferentes contextos, junto con patrones restrictivos y repetitivos de comportamiento, intereses o actividades. 
+
+Síndrome de Down: trastorno genético provocado por la trisomía del cromosoma 21 o de una parte de este. Se caracteriza por un grado variable de discapacidad intelectual y por rasgos físicos que le confieren un aspecto distintivo.
+
+]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
