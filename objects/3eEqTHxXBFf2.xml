@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3eEqTHxXBFf2" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-12</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[El centro educativo psicopedagógico CROA, es un centro multidisciplinar con metodología propia donde conviven todos los agentes educativos de una forma amena y eficaz. 
+
+
+En CROA trabajan psicología clínica, atención a las necesidades específicas del apoyo educativo, logopedia y metodología de estudio. Cuentan con 6 profesionales que son los encargados de atender a los niños. Podemos encontrar logopedas, psicólogo clínico, psicólogo educativo, pedagogo y profesores.
+
+
+CROA es un lugar divertido, para ser y estar. Trabaja con niños de entre 3 años hasta edad sin límite. Los niños trabajan de manera individual según sus necesidades.
+
+]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

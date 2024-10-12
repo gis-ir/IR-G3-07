@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="43k3WizhMTXZ" classes="organization" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[CROA]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-12</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <stringProperty name="address" category="detail"><![CDATA[Calle Asencio y Toledo 4-B, Bellavista, Sevilla]]></stringProperty>
+    <stringProperty name="phone-number" category="detail"><![CDATA[+34 683 36 86 95]]></stringProperty>
+    <stringProperty name="email" category="detail"><![CDATA[]]></stringProperty>
+    <urlProperty name="web" category="detail"><![CDATA[www.croaeducacion.com/]]></urlProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="5h9vcFahnxDu" classes="stakeholder" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[MANUEL ROBERTO LÓPEZ PAVÍA
+]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-12</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <stringProperty name="role" category="detail"><![CDATA[Ingeniero de Requisitos]]></stringProperty>
+    <enumProperty name="category" category="detail" choices="tbd customer developer user">developer</enumProperty>
+    <traceProperty name="works-for" category="detail" acceptedTargets="organization" traceType=":Proteus-works-for">
+      <trace target="32uwYhamW888" traceType=":Proteus-works-for"/>
+    </traceProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
