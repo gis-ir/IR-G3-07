@@ -5,10 +5,16 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Padres/Tutores]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-12</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
-    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="38NEMGLXtn8J" traceType=":Proteus-author"/>
+    </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[Responsables de los alumnos, gestionan pagos, inscripciones y autorizaciones. También coordinan citas con el personal del centro y se mantienen informados sobre el progreso académico y terapéutico de sus hijos.]]></markdownProperty>
-    <traceProperty name="participates-in" category="detail" acceptedTargets="business-process" traceType=":Proteus-dependency"/>
+    <traceProperty name="participates-in" category="detail" acceptedTargets="business-process" traceType=":Proteus-dependency">
+      <trace target="7cu26iGHVEvm" traceType=":Proteus-dependency"/>
+      <trace target="L988jJ6aNFho" traceType=":Proteus-dependency"/>
+      <trace target="6YFzDoStzTVQ" traceType=":Proteus-dependency"/>
+    </traceProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

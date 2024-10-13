@@ -5,10 +5,14 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Centro escolar]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-12</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
-    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="38NEMGLXtn8J" traceType=":Proteus-author"/>
+    </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[Instituciones educativas que solicitan información sobre el progreso académico o terapéutico de los alumnos. Colaboran con el centro para asegurar que los estudiantes con necesidades especiales reciban el apoyo adecuado.]]></markdownProperty>
-    <traceProperty name="participates-in" category="detail" acceptedTargets="business-process" traceType=":Proteus-dependency"/>
+    <traceProperty name="participates-in" category="detail" acceptedTargets="business-process" traceType=":Proteus-dependency">
+      <trace target="L988jJ6aNFho" traceType=":Proteus-dependency"/>
+    </traceProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

@@ -5,7 +5,9 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Alumno]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-12</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
-    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="38NEMGLXtn8J" traceType=":Proteus-author"/>
+    </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[Niños y jóvenes que asisten al centro para recibir apoyo educativo. En la mayoría de los casos, son alumnos con necesidades específicas que requieren refuerzo en materias académicas o terapias personalizadas para mejorar su desarrollo.]]></markdownProperty>
     <traceProperty name="participates-in" category="detail" acceptedTargets="business-process" traceType=":Proteus-dependency"/>
