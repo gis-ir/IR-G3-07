@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3MQxbWSxfuN4" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-12</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[Es indispensable, además, añadir una serie de funcionalidades para agilizar la comunicación padre-profesor, tanto para recibir comentarios sobre el comportamiento y evolución de los alumnos, como para solicitar citas presenciales o telemáticas. Además, para llevar un mejor control de alumnos en las clases, tanto para profesores, como para padres, solicitan la implementación de un calendario personalizado para los diferentes usuarios, donde para los profesores aparecerían qué alumnos van a cada clase, y para los padres a qué hora va cada hijo a las diferentes clases.]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
