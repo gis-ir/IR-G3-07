@@ -13,7 +13,7 @@
 Una vez recibida la solicitud, el director revisa si se cuenta con el permiso de los tutores legales del alumno para compartir dicha información. Si el permiso no ha sido otorgado, se solicita y se espera la firma de los tutores. Si ya se cuenta con el consentimiento, el director procede a realizar el reporte a mano utilizando la información registrada en la libreta de mano.
 Finalmente, el reporte es enviado a la entidad solicitante (colegio o centro de atención temprana), completando así el proceso de traspaso de información.]]></markdownProperty>
     <enumProperty name="importance" category="detail" choices="tbd critical high medium low optional">critical</enumProperty>
-    <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[diagram (5).svg]]></fileProperty>
+    <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[Untitled design.jpg]]></fileProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">100</integerProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
