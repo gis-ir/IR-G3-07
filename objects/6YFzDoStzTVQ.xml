@@ -5,7 +5,9 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Selección de horarios para una clase]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-13</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
-    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="38NEMGLXtn8J" traceType=":Proteus-author"/>
+    </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El proceso de selección de horarios para una clase en C.R.O.A. comienza cuando un padre o tutor envía una solicitud para que su hijo, inscrito en la academia, pueda asistir a una clase. Esta solicitud es recibida por el profesor, quien verifica si el alumno tiene necesidades especiales. Si es así, el profesor revisa la disponibilidad para una clase individual en su libreta de mano. Si no, revisa la disponibilidad para una clase grupal. 
 

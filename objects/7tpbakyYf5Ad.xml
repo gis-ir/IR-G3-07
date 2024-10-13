@@ -5,7 +5,9 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Organización de un taller de psicología]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-13</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
-    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="38NEMGLXtn8J" traceType=":Proteus-author"/>
+    </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El proceso de organización de un taller de psicología comienza cuando la psicóloga del centro propone una idea para un nuevo taller. Esta propuesta es enviada al director del centro, quien evalúa la viabilidad de la misma. Si la propuesta no es viable, el proceso se detiene. En caso de que sea aprobada, la psicóloga procede a preparar los detalles del taller, incluyendo el contenido y la logística.
 
