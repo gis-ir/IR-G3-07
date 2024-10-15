@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="5uR4JgtHxoqK" classes="business-requirement business-process" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[BPRO-]]></prefix><number>008</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Gestión de alumnos]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-13</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="5h9vcFahnxDu" traceType=":Proteus-author"/>
+    </traceProperty>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="description" category="detail"><![CDATA[El proceso de gestión de alumnos comienza cuando los padres/tutores solicitan información sobre el servicio mediante un formulario con las necesidades de su hijo/tutelado. Esta solicitud es atendida por el Director del Centro, quien evalúa si el cliente tiene necesidades especiales. Si el cliente tiene necesidades especiales, el Director gestiona una beca para ofrecer un apoyo adecuado. Si no hay necesidades especiales, el sistema genera automáticamente según los datos aportados un presupuesto que se envía a los padres/tutores . Estos revisan el presupuesto y deciden si aceptan las condiciones. Si no aceptan el presupuesto, el proceso finaliza. En caso de que acepten el presupuesto, los padres/tutores proporcionan el resto de datos necesarios del cliente para proceder con la inscripción. Con estos, se registran los datos del cliente en el sistema. Posteriormente, se asignan horarios, profesores y fechas de pago al alumno y se finaliza el proceso.]]></markdownProperty>
+    <enumProperty name="importance" category="detail" choices="tbd critical high medium low optional">critical</enumProperty>
+    <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[diagram (2).svg]]></fileProperty>
+    <integerProperty name="width" category="detail" tooltip="width-info">100</integerProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

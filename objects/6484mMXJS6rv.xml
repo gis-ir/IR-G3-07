@@ -2,7 +2,7 @@
 <object id="6484mMXJS6rv" classes="business-requirement business-process" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
     <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[BPRO-]]></prefix><number>003</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Gestion de Alumnos]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Gestión de Alumnos]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-13</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">

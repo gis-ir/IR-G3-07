@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="336uPF737EU3" classes="business-requirement business-process" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[BPRO-]]></prefix><number>007</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Selección de horarios para una clase]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-13</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="5h9vcFahnxDu" traceType=":Proteus-author"/>
+    </traceProperty>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="description" category="detail"><![CDATA[El proceso de selección de horarios para una clase comienza cuando un padre/tutor envía una solicitud mediante un formulario en el sistema para que su hijo/tutelado, inscrito en la academia, pueda asistir a una clase. Esta solicitud es recibida por el profesor, quien verifica si el alumno tiene necesidades especiales y las preferencias del alumno. Teniendo estos datos, se revisa la disponibilidad automáticamente. 
+
+Una vez revisada la disponibilidad, se envía el horario disponible al padre/tutor mediante la aplicación. Tras esto, se actualiza el horario del profesor con las clases seleccionadas por los clientes. Luego, cualquier cambio necesario es comunicado al director del centro, quien actualiza los horarios en el sistema. Finalmente, el padre/tutor confirma el día y la hora para la clase, asegurando así la plaza para el alumno.]]></markdownProperty>
+    <enumProperty name="importance" category="detail" choices="tbd critical high medium low optional">critical</enumProperty>
+    <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[diagram (1).svg]]></fileProperty>
+    <integerProperty name="width" category="detail" tooltip="width-info">100</integerProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

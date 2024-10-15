@@ -4,5 +4,12 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Objetivos de negocio]]></stringProperty>
     <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="7xGWqN73gEF5"/>
+    <child id="vETkr6SeyN3q"/>
+    <child id="863MZVkrARgV"/>
+    <child id="3z4rgBhSDhC9"/>
+    <child id="88ExoazHpwhG"/>
+    <child id="5QYgfzCq8FTo"/>
+  </children>
 </object>

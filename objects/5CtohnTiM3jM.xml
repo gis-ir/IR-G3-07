@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="5CtohnTiM3jM" classes="business-requirement business-process" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[BPRO-]]></prefix><number>010</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Traspaso de información entre entidades]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-13</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="5h9vcFahnxDu" traceType=":Proteus-author"/>
+    </traceProperty>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="description" category="detail"><![CDATA[Este proceso describe el "Traspaso de información entre entidades asociadas". Comienza cuando un centro escolar o centro de atención temprana solicita un reporte sobre un alumno con necesidades especiales, ya sea por correo electrónico o llamada telefónica dirigida al director de C.R.O.A.
+Una vez recibida la solicitud, el director revisa en el sistema si se cuenta con el permiso de los tutores legales del alumno para compartir dicha información. Si el permiso no ha sido otorgado, se solicita y se espera la firma de los tutores. Si ya se cuenta con el consentimiento, el director procede a realizar el reporte utilizando la información registrada en el sistema usando una plantilla.
+Finalmente, el reporte es enviado a la entidad solicitante (colegio o centro de atención temprana), completando así el proceso de traspaso de información.]]></markdownProperty>
+    <enumProperty name="importance" category="detail" choices="tbd critical high medium low optional">medium</enumProperty>
+    <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[diagramReporte1.svg]]></fileProperty>
+    <integerProperty name="width" category="detail" tooltip="width-info">100</integerProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
