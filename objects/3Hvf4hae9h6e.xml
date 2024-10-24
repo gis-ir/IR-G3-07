@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3Hvf4hae9h6e" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-24</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[En primer lugar, el subsistema de gestión de Alumnos. Donde se intentará cubrir las siguientes necesidades:
+
+ - Registro de alumnos: permitir el ingreso de nuevos alumnos en una base de datos centralizada, con la opción de realizar pagos en línea.
+
+ - Seguimiento académico : Registro de las actividades y evolución académica de cada alumno, incluyendo notas, comportamiento y comentarios de profesores.
+
+ - Perfil de padres: Sección donde se almacena información personal, incluyendo datos de contacto, hijos apuntados en la academia y la información referida a cada hijo.
+
+
+Por otro lado, se necesita un subsistema que agilice la comunicación padre-profesor que cubra las siguientes necesidades:
+
+ - Mensajería interna: facilitar la comunicación directa entre padres y profesores mediante un sistema de mensajería integrado en la aplicación.
+
+ - Solicitudes de citas: funcionalidad para que los padres puedan solicitar citas presenciales o telemáticas con los profesores.
+ - Notificaciones: Sistema de alertas para informar a los padres sobre eventos importantes, como talleres, reuniones, cambios urgentes en la programación de las clases o próximos pagos.
+
+
+Un subsistema necesario para la empresa es también el de gestión de gastos. Para llevar un mejor control del material de la empresa, cubriendo las siguientes necesidades:
+ - Registro de material escolar: permitir el seguimiento de las compras de material escolar (folios, bolígrafos, tinta de impresora…) y su uso.
+
+ - Control de inventarios: implementar un sistema para gestionar el inventario de materiales y calcular la durabilidad y necesidades de reposición de estos.
+
+ - Informe de gastos: generar informes que muestren los gastos en material alo largo del año, identificando tendencias, meses con gastos excesivos y áreas de mejora.
+
+
+Otro subsistema que se debe añadir es el de informes estadísticos que faciliten el procesado de información referente a la evolución de la propia empresa, para suplir las siguientes necesidades:
+
+ - Análisis de volumen de alumnos: recopilar datos mensuales sobre la cantidad de alumnos inscritos, permitiendo identificar los mejores y peores meses.
+
+ - Comparativas anuales: generar estadísticas en base a los datos recopilados año a año para ver de una forma más sencilla el desarrollo de la empresa a lo largo de los años.
+
+
+Por último, sería conveniente añadir un subsistema referido a la seguridad de la aplicación y la privacidad de los clientes, que contenga las siguientes características:
+
+ - Gestión de accesos: controlar los permisos de acceso a la información, garantizando que solo el personal autorizado pueda ver o modificar datos sensibles.
+
+ - Protección de datos: cumplimiento con normativas de protección de datos, asegurando la confidencialidad de la información de alumnos y padres.]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
