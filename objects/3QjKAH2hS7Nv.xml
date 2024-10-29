@@ -2,7 +2,7 @@
 <object id="3QjKAH2hS7Nv" classes="business-requirement weakness" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
     <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[WEAK-]]></prefix><number>002</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Eficiencia]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Falta de eficiencia]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-11</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">

@@ -3,7 +3,7 @@
   <properties>
     <stringProperty name=":Proteus-acronym" category="general"><![CDATA[ERS]]></stringProperty>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Especificación de Requisitos del Sistema]]></stringProperty>
-    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.1]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-08</dateProperty>
     <markdownProperty name="description" category="details"><![CDATA[Documento Especificación de Requisitos del Sistema basado en MADEJA para la asignatura Ingeniería de Requisitos]]></markdownProperty>
     <traceProperty name="prepared-for" category="dependencies" acceptedTargets="organization" traceType=":Proteus-dependency">
