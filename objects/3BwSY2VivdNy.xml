@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3BwSY2VivdNy" classes="software-requirement subsystem" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[SUBS-]]></prefix><number>001</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Subsistema de gestión de alumnos]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-20</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="description" category="detail"><![CDATA[Este subsistema agrupa los requisitos relacionados con:
+
+ - Registro de alumnos: permitir el ingreso de nuevos alumnos en una base de datos centralizada, con la opción de realizar pagos en línea.
+
+ - Seguimiento académico: Registro de las actividades y evolución académica de cada alumno, incluyendo notas, comportamiento y comentarios de profesores.
+
+ - Perfil de padres: Sección donde se almacena información personal, incluyendo datos de contacto, hijos apuntados en la academia y la información referida a cada hijo.]]></markdownProperty>
+    <enumProperty name="importance" category="detail" tooltip="importance" choices="tbd critical high medium low optional">high</enumProperty>
+    <enumProperty name="priority" category="detail" tooltip="priority" choices="tbd high medium low">high</enumProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

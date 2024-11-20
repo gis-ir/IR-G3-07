@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="6co9PS2ZgzQH" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-19</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[Queremos alcanzar algunos aspectos que nos ha propuesto CROA y son:
+
+
+Comunicación empleado-cliente
+
+
+Poder realizar pagos online para mayor comodidad y buen seguimiento del pago del cliente
+
+
+Información sobre actividades que se realizan en el centro
+
+
+Poder visualizar los espacios libres en las aulas para poder cuadrar el horario
+
+
+Recogida de información por parte de la empresa de forma online para mejorar la organización y evitar que esa información quede dispersa]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="56NmtCwjpwUh" classes="software-requirement subsystem" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[SUBS-]]></prefix><number>002</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Subsistema de comunicación ]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-20</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="description" category="detail"><![CDATA[Este subsistema agrupa los requisitos relacionados con:
+
+- Mensajería interna: facilitar la comunicación directa entre padres y profesores mediante un sistema de mensajería integrado en la aplicación.
+
+ - Solicitudes de citas: funcionalidad para que los padres puedan solicitar citas presenciales o telemáticas con los profesores.
+
+ - Notificaciones: Sistema de alertas para informar a los padres sobre eventos importantes, como talleres, reuniones, cambios urgentes en la programación de las clases o próximos pagos.]]></markdownProperty>
+    <enumProperty name="importance" category="detail" tooltip="importance" choices="tbd critical high medium low optional">medium</enumProperty>
+    <enumProperty name="priority" category="detail" tooltip="priority" choices="tbd high medium low">medium</enumProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="t4NKTncV5mR5" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Personas participantes]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="4zxYpfRFSZvm"/>
+    <child id="65c8riu3TsGe"/>
+    <child id="7TgwPtbnCAK8"/>
+    <child id="rD8NCwSJy8W3"/>
+    <child id="6NYvQjuSvqix"/>
+    <child id="6hmbxmEiYhoa"/>
+  </children>
+</object>
