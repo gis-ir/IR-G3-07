@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7CT7oy8L38MM" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section" selectedCategory="detail">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-21</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[Podemos que tenemos tres tipos de perfil: tutor, administrador o empleado.
+
+
+Como tutor:
+Iniciará sesion y encontramos varios espacios, donde encontramos información sobre los distintos hijos, mensajes que les llegan por parte de los empleados o administrador y las notificaciones donde se les avisa por ejemplo de los pagos que deben realizar.
+Por otro lado podemos ver el calendario de la semana con las clases de los niños, las citas pedidas por el tutor para un empleado o viceversa, los talleres que se van a realizar próximamente y una sección para pagar.
+
+
+Como administrador:
+Inicia sesión y tiene un menú donde puede ver todos los talleres que se hayan programado. También tiene acceso a notificaciones y a mensajes.
+Los administradores pueden ver una lista con el nombre y mail de los usuarios, alumnos y empleados, pudiendo los últimos ser eliminados y añadidos. 
+Un espacio con los pagos debidos y las estadísticas del volumen de alumnos y gastos mensuales.
+
+
+
+Como empleado:
+Inicia sesion y tiene acceso a un calendario donde ve las clases que debe impartir, las citas que le hayan pedido o quiera pedir, los informes de los distintos alumnos y una parte reservada a la creación de talleres.]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
