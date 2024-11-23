@@ -2,7 +2,7 @@
 <object id="7to2JAXDyzEc" classes="software-requirement subsystem" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
     <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[SUBS-]]></prefix><number>004</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Subsistema de informes estadísticos]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Subsistema de informes]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-11-20</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
@@ -11,7 +11,11 @@
 
 - Análisis de volumen de alumnos: recopilar datos mensuales sobre la cantidad de alumnos inscritos, permitiendo identificar los mejores y peores meses.
 
- - Comparativas anuales: generar estadísticas en base a los datos recopilados año a año para ver de una forma más sencilla el desarrollo de la empresa a lo largo de los años.]]></markdownProperty>
+- Análisis de gastos: recopilar datos mensuales sobre la cantidad de materiales, precios, y actualizaciones de inventario.
+
+ - Comparativas anuales: generar estadísticas en base a los datos recopilados año a año para ver de una forma más sencilla el desarrollo de la empresa a lo largo de los años.
+
+- Generación de informes médicos de pacientes con sus competencias, de forma que se pueda observar la evolución del paciente a lo largo del tiempo.]]></markdownProperty>
     <enumProperty name="importance" category="detail" tooltip="importance" choices="tbd critical high medium low optional">critical</enumProperty>
     <enumProperty name="priority" category="detail" tooltip="priority" choices="tbd high medium low">high</enumProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
