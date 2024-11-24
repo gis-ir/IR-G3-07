@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="42BVE28h2az5" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[2]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Se generarán unos gráficos según las competencias trabajadas por lo pacientes que el actor Especialista [ACT-003] podrá visualizar y analizar para ver la evolución de las competencias del paciente.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

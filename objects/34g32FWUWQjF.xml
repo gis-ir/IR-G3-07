@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="34g32FWUWQjF" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[2]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El actor Especialista [ACT-003] selecciona las competencias que se han trabajado en la sesión indicando la competencia en cuestión y el nivel alcanzado durante la sesión de 0 a 10.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

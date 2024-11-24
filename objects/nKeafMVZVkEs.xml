@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="nKeafMVZVkEs" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[3]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[En caso de que la competencia no exista, el actor Especialista [ACT-003] puede añadir el nombre de la competencia y se guardará en el listado de competencias disponibles para añadir a los informes.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
