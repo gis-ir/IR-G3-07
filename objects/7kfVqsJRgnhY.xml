@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7kfVqsJRgnhY" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Documentación del profesor]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El profesor deberá ir anotando a lo largo de la clase si los ejercicios propuestos se han realizado correctamente, si las competencias a evaluar han sido positivas o negativas y si el comportamiento del alumno ha sido el adecuado.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

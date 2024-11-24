@@ -17,5 +17,8 @@
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
-  <children numbered="true"/>
+  <children numbered="true">
+    <child id="73HQY8jqWS2b"/>
+    <child id="5JkUyQyAQfen"/>
+  </children>
 </object>

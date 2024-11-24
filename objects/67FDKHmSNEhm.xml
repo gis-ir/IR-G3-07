@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="67FDKHmSNEhm" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Registro del alumno y asignación de horarios]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Una vez obtenida toda la información personal necesaria se añade el alumno a la base de datos y se le asigna un horario en función de lo elegido con aterioridad.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

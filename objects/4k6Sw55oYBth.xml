@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4k6Sw55oYBth" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Comunicación]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Si el profesor piensa que es adecuado informar a los padres de alguna incidencia ocurrida durante la clase, estos informes diarios servirán de respaldo.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

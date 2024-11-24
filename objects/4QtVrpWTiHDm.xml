@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4QtVrpWTiHDm" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Generación de informe académico]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Estos reportes diarios servirán para generar una serie de informes evolutivos acerca de la progresión de los alumnos a lo largo del tiempo, para conocer la evolución académica de los alumnos y poder enfocarse en las deficiencias adecuadas con mayor rigurosidad.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

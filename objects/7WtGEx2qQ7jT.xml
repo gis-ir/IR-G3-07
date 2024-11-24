@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7WtGEx2qQ7jT" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Sin necesidades especiales]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[En caso contrario se seleccionarian la cantidad de días que el alumno asistirá a la academia y se le generará un presupuesto en función de lo elegido.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
