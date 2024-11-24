@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4bJm4g9a739k" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[4]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El actor Especialista [ACT-003] solicita al sistema que registre y mande el nuevo taller al actor Administrador [ACT-004] para su aprobación]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

@@ -7,7 +7,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[El sistema debe comportarse de forma que proporcione un formulario de solicitud de citas (teniendo en cuenta el horario del profesor/especialista), en el que se pueda seleccionar la fecha y hora, el alumno/paciente del que se quiere hablar, la temática, si es telemática o presencial y, en caso de solicitarla el padre/tutor, a qué empleado quiere solicitar la cita. Tras haberse enviado la propuesta, el solicitado deberá aceptarla o no.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá comportarse tal como se describe en el siguiente caso de uso cuando un padre/tutor decida pedir una cita con el especialista de su hijo/tutelado.]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[Dado que tanto un padre/tutor o un profesor/especialista puede pedir una cita, uno de estos debe heberse identificado correctamente y tener la sesión abierta. También es condición que el profesor/especialista haya dado clases/sesiones al alumno asociado al padre/tutor.]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[Una vez concretada la cita, se enviará una notificación al que envió la solicitud, confirmando la fecha y hora. También se añadirá la cita al horario del padre/tutor y del profesor/especialista.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">medium</enumProperty>
@@ -17,5 +17,13 @@
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
-  <children numbered="true"/>
+  <children numbered="true">
+    <child id="3wUJ2Zk2o3d3"/>
+    <child id="36ZhuSU4RN6Q"/>
+    <child id="4jEDfZMiwjim"/>
+    <child id="AvShRgtMmgzN"/>
+    <child id="grLGftS5x6pz"/>
+    <child id="5BKFSBKFUP5N"/>
+    <child id="8HdnHP7dETwE"/>
+  </children>
 </object>

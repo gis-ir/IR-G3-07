@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="44dpfenxDE5g" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[5]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El actor Administrador [ACT-004] recibe la propuesta de taller y el sistema le permite aceptarla o denegarla]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
