@@ -2,7 +2,7 @@
 <object id="73HQY8jqWS2b" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Información personal]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El tutor cede su información personal al sistema para poder registrarse.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El Tutor [ACT-001] cede su información personal al sistema para poder registrarse.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

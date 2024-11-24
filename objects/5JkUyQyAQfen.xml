@@ -2,7 +2,7 @@
 <object id="5JkUyQyAQfen" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Registro de tutor]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[Con la información personal necesaria el sistema procesa los datos, los almacena en la base de datos y genera la cuenta personal del tutor.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Con la información personal necesaria el sistema procesa los datos, los almacena en la base de datos y genera la cuenta personal del Tutor [ACT-001].]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
