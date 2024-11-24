@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="ZRQEukZKVQYD" classes="enum-value" acceptedChildren=":Proteus-none" acceptedParents="enumeration">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[PSICÓLOGO_EDUCATIVO]]></stringProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Profesional de la psicología cuyo objetivo es la reflexión sobre el comportamiento humano en situaciones educativas]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

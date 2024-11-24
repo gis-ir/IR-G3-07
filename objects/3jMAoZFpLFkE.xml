@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3jMAoZFpLFkE" classes="attribute" acceptedChildren=":Proteus-none" acceptedParents="entity-class association">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[tipoEntidadEducativa]]></stringProperty>
+    <stringProperty name="type" category="general"><![CDATA[TipoEntidadEducativa]]></stringProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Enumerado con los tipos de entidad educativa]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

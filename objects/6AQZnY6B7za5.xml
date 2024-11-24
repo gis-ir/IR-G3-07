@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="6AQZnY6B7za5" classes="attribute" acceptedChildren=":Proteus-none" acceptedParents="entity-class association">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[fechaDeVencimiento]]></stringProperty>
+    <stringProperty name="type" category="general"><![CDATA[date]]></stringProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Fecha en la que vence el pago]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
