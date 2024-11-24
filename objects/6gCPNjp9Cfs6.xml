@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="6gCPNjp9Cfs6" classes="software-requirement use-case" acceptedChildren="use-case-step" acceptedParents=":Proteus-any">
+  <properties>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[UC-]]></prefix><number>014</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Recuperar contraseña]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-24</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="description" category="detail"><![CDATA[Este caso de uso describe el proceso mediante el cual un usuario solicita restablecer su contraseña en caso de olvido o pérdida.]]></markdownProperty>
+    <markdownProperty name="precondition" category="pre-post"><![CDATA[El usuario debe estar registrado]]></markdownProperty>
+    <markdownProperty name="postcondition" category="pre-post"><![CDATA[La contraseña del usuario se actualiza y el sistema envía un email avisando de este cambio]]></markdownProperty>
+    <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">critical</enumProperty>
+    <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">high</enumProperty>
+    <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">awaiting-qa</enumProperty>
+    <enumProperty name="stability" category="priority" choices="tbd low medium high">high</enumProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children numbered="true">
+    <child id="75DmMmfb3ePR"/>
+    <child id="7twgUnnYffck"/>
+    <child id="tuSWbeczKzFp"/>
+    <child id="7WyTQRUkuveS"/>
+  </children>
+</object>

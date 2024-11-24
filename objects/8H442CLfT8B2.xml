@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="8H442CLfT8B2" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Generar link de acceso]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Una vez aprobada la solicitud, el administrador del sistema genera un enlace seguro de acceso al informe del alumno. Este enlace puede tener una validez limitada para proteger la privacidad de los datos.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="52AqHVhvS7VQ" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Autorizar traspaso de información]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El empleado profesor, o especialista encargado del alumno y autor del informe, debe aprobar el traspaso de información al centro educativo. Esto implica que el tutor haya firmado electrónicamente una autorización que permita compartir el informe con la entidad educativa.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
