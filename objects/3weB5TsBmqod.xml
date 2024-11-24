@@ -10,7 +10,9 @@
     <markdownProperty name="description" category="detail"><![CDATA[Pagos de manera online para que pueda ser  realizado a través del móvil y no haya que desplazarse hasta la empresa. Se recibirá un aviso cuando la fecha de pago se aproxime.]]></markdownProperty>
     <enumProperty name="importance" category="detail" choices="tbd critical high medium low optional">high</enumProperty>
     <enumProperty name="priority" category="detail" choices="tbd high medium low">high</enumProperty>
-    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency">
+      <trace target="5QYgfzCq8FTo" traceType=":Proteus-dependency"/>
+    </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
