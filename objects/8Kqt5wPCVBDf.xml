@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="8Kqt5wPCVBDf" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Validación de credenciales]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema verifica si el correo y la contraseña coinciden con un usuario registrado en la base de datos.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

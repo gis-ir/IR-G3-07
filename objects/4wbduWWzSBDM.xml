@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4wbduWWzSBDM" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Firmar Ley de protección de datos]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Este caso de uso describe el proceso mediante el cual los usuarios del sistema (tutores, alumnos mayores de edad o pacientes) firman electrónicamente la Ley de Protección de Datos. Esta acción es necesaria para autorizar el uso de datos personales, como fotografías o informes, y su compartición con entidades externas, como centros educativos o centros de atención temprana. La firma asegura el cumplimiento de las normativas de privacidad y protección de datos.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

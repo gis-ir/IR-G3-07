@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="tuSWbeczKzFp" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Restablecer contraseña]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El usuario accede al enlace o introduce el código en el sistema, y luego proporciona una nueva contraseña segura.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
