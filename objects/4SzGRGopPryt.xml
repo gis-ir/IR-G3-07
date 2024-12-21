@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="63H3M2ZX275g" classes="model-element entity-class" acceptedChildren="attribute" acceptedParents=":Proteus-any">
+<object id="4SzGRGopPryt" classes="model-element entity-class" acceptedChildren="attribute" acceptedParents=":Proteus-any">
   <properties>
-    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[ENT-]]></prefix><number>014</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[InformeEducativo]]></stringProperty>
-    <dateProperty name=":Proteus-date" category="general">2024-11-24</dateProperty>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[ENT-]]></prefix><number>018</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Competencia]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-12-21</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <booleanProperty name="is-abstract" category="detail" tooltip="is-abstract">false</booleanProperty>
     <traceProperty name="superclass" category="detail" acceptedTargets="entity-class" traceType=":Proteus-dependency" maxTargetsNumber="1"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Esta entidad representa los informes generados por los especialistas del centro sobre los alumnos]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Esta entidad representa las competencias de los alumnos con necesidades especiales]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement model-element" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children>
-    <child id="7a3VErZNr4Ry"/>
+    <child id="67vr6DMQKuwJ"/>
   </children>
 </object>

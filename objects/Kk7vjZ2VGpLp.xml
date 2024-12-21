@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="Kk7vjZ2VGpLp" classes="attribute" acceptedChildren=":Proteus-none" acceptedParents="entity-class association">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[nivel]]></stringProperty>
+    <stringProperty name="type" category="general"><![CDATA[integer]]></stringProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Nivel del alumno evaluado por el especialista]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="4o548ufPuKca" classes="model-element entity-class" acceptedChildren="attribute" acceptedParents=":Proteus-any">
   <properties>
-    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[ENT-]]></prefix><number>018</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[ENT-]]></prefix><number>015</number><suffix><![CDATA[]]></suffix></codeProperty>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Inventario]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-11-24</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
