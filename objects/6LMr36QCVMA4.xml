@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<object id="6LMr36QCVMA4" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
-  <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[3]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[EL actor Especialista [ACT-003] podrá descargar las gráficas en un archivo pdf, aunque se quedarán guardados en el sistema.]]></markdownProperty>
-    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
-  </properties>
-  <children/>
-</object>

@@ -2,7 +2,7 @@
 <object id="7yUckgts44hG" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[1]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El actor Especialista [ACT-003] selecciona el paciente para el que quiere generar el informe.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El actor Especialista [ACT-003] selecciona crear un informe.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

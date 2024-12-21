@@ -9,7 +9,7 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá comportarse tal como se describe en el siguiente caso de uso cuando un administrador decida generar un nuevo informe.]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[El administrador debe tener la sesión iniciada dentro del sistema ]]></markdownProperty>
-    <markdownProperty name="postcondition" category="pre-post"><![CDATA[Tras generar el informe, este se guardará en el historial de informes.]]></markdownProperty>
+    <markdownProperty name="postcondition" category="pre-post"><![CDATA[El informe queda guardado en el Historial de Informes del paciente.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">high</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">high</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">awaiting-qa</enumProperty>
@@ -22,5 +22,9 @@
     <child id="6vr2CMFYN9rT"/>
     <child id="3jvBMfjjzdML"/>
     <child id="5GRhutobmAe2"/>
+    <child id="5pBQ2vAvECQF"/>
+    <child id="4SgiKnXFtdhK"/>
+    <child id="45V2YfSQmRTd"/>
+    <child id="3yep5sv62xdS"/>
   </children>
 </object>

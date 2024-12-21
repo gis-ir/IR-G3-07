@@ -2,7 +2,7 @@
 <object id="7xxwiz7UCpu3" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[3]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[Despues de comparar,  el actor Administrador [ACT-004] puede analizar los mejores o peores meses/años]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El actor Administrador [ACT-004] puede seleccionar varios informes si son del mismo y de igual duración para compararlos.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

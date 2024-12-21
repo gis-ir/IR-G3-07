@@ -2,7 +2,7 @@
 <object id="6tyhWCsHFAHd" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[3]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El actor Especialista [ACT-003] podrá descargar los informes o previsualizarlos.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El actor Especialista [ACT-003] pordrá visualizar un informe o seleccionar varios informes.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

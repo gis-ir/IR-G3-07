@@ -2,7 +2,7 @@
 <object id="33SqtAU6RLZR" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[2]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El actor Especialista [ACT-003] consultará el historial de todos los informes relacionados con el paciente seleccionado.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema devolverá el listado de informes de ese paciente.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

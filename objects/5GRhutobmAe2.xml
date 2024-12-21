@@ -2,7 +2,7 @@
 <object id="5GRhutobmAe2" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[4]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El actor Administrador [ACT-004] despúes de generar el informe mensual puede generar un informe anual de años completos.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema pide los meses sobre los que se quiere generar los informes.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
