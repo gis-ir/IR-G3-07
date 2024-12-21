@@ -2,7 +2,7 @@
 <object id="6xWh3G3TqAJt" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Registro de desarrollo]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[La documentación que el profesor ha generado tras la clase será recogida y almacenada por el sistema.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema recoge y almacena la documentación que el Profesor[ACT-002] ha generado tras la clase.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
