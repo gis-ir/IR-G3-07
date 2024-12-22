@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="4usVKPreMTv7" classes="general-traceable-object figure" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Diagrama de visualización de informes médicos.]]></stringProperty>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Diagrama de visualización de informes médicos]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-12-22</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
