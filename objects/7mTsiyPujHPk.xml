@@ -2,7 +2,7 @@
 <object id="7mTsiyPujHPk" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Confirmación del registro]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El sistema registra al usuario en la base de datos y, opcionalmente, envía un correo de confirmación para verificar su cuenta.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema registra al [ACT-005] en la base de datos y, opcionalmente, envía un correo de confirmación para verificar su cuenta.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

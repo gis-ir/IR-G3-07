@@ -2,7 +2,7 @@
 <object id="7URRV9YL5MRN" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Ingresar credenciales]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El usuario introduce su correo electrónico y contraseña en la página de inicio de sesión.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[[ACT-005] introduce su correo electrónico y contraseña en la página de inicio de sesión.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

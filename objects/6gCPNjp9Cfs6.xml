@@ -7,8 +7,8 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Este caso de uso describe el proceso mediante el cual un usuario solicita restablecer su contraseña en caso de olvido o pérdida.]]></markdownProperty>
-    <markdownProperty name="precondition" category="pre-post"><![CDATA[El usuario debe estar registrado]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Este caso de uso describe el proceso mediante el cual [ACT-005] solicita restablecer su contraseña en caso de olvido o pérdida.]]></markdownProperty>
+    <markdownProperty name="precondition" category="pre-post"><![CDATA[[ACT-005] debe estar registrado]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[La contraseña del usuario se actualiza y el sistema envía un email avisando de este cambio]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">critical</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">high</enumProperty>

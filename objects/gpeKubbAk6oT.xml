@@ -2,7 +2,7 @@
 <object id="gpeKubbAk6oT" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Acceso concedido]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[Si las credenciales son correctas, el sistema redirige al usuario a su página principal o dashboard.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Si las credenciales son correctas, el sistema redirige al [ACT-005] a su página principal o dashboard.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
