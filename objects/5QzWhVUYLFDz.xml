@@ -4,5 +4,7 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Servicios consumidos por el sistema]]></stringProperty>
     <markdownProperty name="comments" category="general"><![CDATA[Todos los servicios que componen el sistema de CROA son consumidos por el propio sistema.]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="7tQbHKfWVu66"/>
+  </children>
 </object>
