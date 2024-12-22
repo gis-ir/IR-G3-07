@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3H3owjcNDKoF" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Verificación de pago]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema procesa la información, permite el pago y envía un justificante de pago.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

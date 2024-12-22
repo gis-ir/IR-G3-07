@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4a5VjCRb4q4P" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Envío de formulario de pago]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema envía un formulario para que el Tutor[ACT-001] rellene con su información bancaria.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
