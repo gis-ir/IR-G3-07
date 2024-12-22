@@ -26,7 +26,11 @@
 - Visualización y comparación de informes: El especialista le pide al sistema ver los informes de un paciente y este le muestra el historial. El especialista puede elegir entre visualizar un informe, que si coge esta opción, le envía al sistema una petición de ese informe y este le devuelve y muestra el informe. Si escoge comparar informes, el sistema le pide que seleccione un periodo y las competencias a comparar. El especialista rellena los datos correspondientes y el sistema genera el gráfico comparativo y se lo muestra al especialista.
 
 
-- Gestión inventario: El administrador consulta el inventario. En el caso en el que añada material, una vez finalice, el sistema actualizará el inventario mostrandole al administrador la lista de material con las cantidades nuevas. Lo mismo sucede si el administrador elimina material.]]></markdownProperty>
+- Gestión inventario: El administrador consulta el inventario. En el caso en el que añada material, una vez finalice, el sistema actualizará el inventario mostrandole al administrador la lista de material con las cantidades nuevas. Lo mismo sucede si el administrador elimina material.
+
+- Traspaso de información: La entidad solicita el informe de un alumno, el sistema valida la solicitud. Si el centro no está autorizado se muestra un mensaje de error. Si el centro está autorizado s ele proporciona un código de acceso. La entidad educativa usa el código para entrar al sistema y el sistema le proporciona el informe del alumno.
+
+- Pagos: El tutor solicita realizar un pago y el sistema le envía el formulario para rellernar el pago. El tutor lo rellena y se lo envía al sistema. Este lo valida y procesa los datos. Si se han validado correctamente los datos se envía justificante del pago al tutor. En caso de de los datos no sean válidos, el sistema le envía un mensaje de error al tutor.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
