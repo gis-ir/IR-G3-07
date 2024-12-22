@@ -23,7 +23,10 @@
 
 - Generación de informes médicos: El especialista selecciona un paciente de la lista y el sistema le envía el formulario de evaluación. El especialista selecciona las competencias y el nivel obtenido en ellas envía los datos al sistema, el sistema genera el informe y lo muestra al especialista.
 
-- Visualización y comparación de informes: El especialista le pide al sistema ver los informes de un paciente y este le muestra el historial. El especialista puede elegir entre visualizar un informe, que si coge esta opción, le envía al sistema una petición de ese informe y este le devuelve y muestra el informe. Si escoge comparar informes, el sistema le pide que seleccione un periodo y las competencias a comparar. El especialista rellena los datos correspondientes y el sistema genera el gráfico comparativo y se lo muestra al especialista.]]></markdownProperty>
+- Visualización y comparación de informes: El especialista le pide al sistema ver los informes de un paciente y este le muestra el historial. El especialista puede elegir entre visualizar un informe, que si coge esta opción, le envía al sistema una petición de ese informe y este le devuelve y muestra el informe. Si escoge comparar informes, el sistema le pide que seleccione un periodo y las competencias a comparar. El especialista rellena los datos correspondientes y el sistema genera el gráfico comparativo y se lo muestra al especialista.
+
+
+- Gestión inventario: El administrador consulta el inventario. En el caso en el que añada material, una vez finalice, el sistema actualizará el inventario mostrandole al administrador la lista de material con las cantidades nuevas. Lo mismo sucede si el administrador elimina material.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
