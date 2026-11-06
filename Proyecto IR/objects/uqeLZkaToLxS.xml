@@ -15,23 +15,7 @@
 
 En concreto, los siguientes datos específicos:
 
-- Código de Cuota: Cadena de texto, Obligatorio, Único.
-
-- Nombre / Concepto: Cadena de texto, Obligatorio.
-
-- Tipo de Cuota: Enumerado (Ordinaria, Extraordinaria), Obligatorio.
-
-- Modalidad de Cálculo: Enumerado (Fija por Parcela, Por m² de Superficie, Fija por Propietario), Obligatorio.
-
-- Importe Base / Precio por m²: Numérico decimal, Obligatorio.
-
-- Periodicidad: Enumerado (Mensual, Trimestral, Anual, Puntual), Obligatorio.
-
-- Fecha inicio vigencia: Fecha, Obligatorio.
-
-- Fecha fin vigencia: Fecha, Opcional.
-
-- Estado: Enumerado (Activa, Inactiva), Obligatorio.]]></markdownProperty>
+]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="urgency" category="priority" tooltip="urgency" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>

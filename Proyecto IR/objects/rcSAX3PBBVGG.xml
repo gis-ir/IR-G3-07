@@ -1,8 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="rcSAX3PBBVGG" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[dato específico]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[descripción del dato especifico]]></markdownProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[datos específicos]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[- ID Propietario: Referencia a RI-001, Obligatorio.
+
+- ID Parcela: Referencia a RI-002, Obligatorio.
+
+- Porcentaje de propiedad: Numérico decimal (0.01% - 100.00%), Obligatorio.
+
+- Fecha inicio titularidad: Fecha, Obligatorio.
+
+- Fecha fin titularidad: Fecha, Opcional (Nulo mientras la titularidad siga vigente).
+]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

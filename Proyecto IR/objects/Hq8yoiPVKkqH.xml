@@ -1,8 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="Hq8yoiPVKkqH" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[dato específico]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[descripción del dato especifico]]></markdownProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[datos específicos]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[- Código de Cuota: Cadena de texto, Obligatorio, Único.
+
+- Nombre / Concepto: Cadena de texto, Obligatorio.
+
+- Tipo de Cuota: Enumerado (Ordinaria, Extraordinaria), Obligatorio.
+
+- Modalidad de Cálculo: Enumerado (Fija por Parcela, Por m² de Superficie, Fija por Propietario), Obligatorio.
+
+- Importe Base / Precio por m²: Numérico decimal, Obligatorio.
+
+- Periodicidad: Enumerado (Mensual, Trimestral, Anual, Puntual), Obligatorio.
+
+- Fecha inicio vigencia: Fecha, Obligatorio.
+
+- Fecha fin vigencia: Fecha, Opcional.
+
+- Estado: Enumerado (Activa, Inactiva), Obligatorio.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

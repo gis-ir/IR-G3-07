@@ -1,8 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="znj457RhwNKG" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[dato específico]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[descripción del dato especifico]]></markdownProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[datos específicos]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[- ID Aplicación: Cadena de texto / Numérico, Obligatorio, Único.
+
+- ID Cobro: Referencia a RI-006, Obligatorio.
+
+- ID Cargo: Referencia a RI-005, Obligatorio.
+
+- Importe aplicado: Numérico decimal, Obligatorio.
+
+- Fecha de aplicación: Fecha y hora, Obligatorio.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
