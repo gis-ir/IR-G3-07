@@ -14,30 +14,7 @@
     <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá almacenar la información correspondiente a las personas físicas o jurídicas titulares de parcelas rústicas en la comunidad.
 
 En concreto, los siguientes datos específicos:
-
-- DNI / NIF / CIF: Cadena de texto, Obligatorio, Único. Documento de identidad legal.
-
-- Nombre: Cadena de texto, Obligatorio.
-
-- Apellidos: Cadena de texto, Opcional (Nulo en personas jurídicas).
-
-- Correo electrónico: Cadena de texto, Opcional.
-
-- Teléfono de contacto: Cadena de texto, Opcional.
-
-- Dirección de notificación: Cadena de texto, Opcional.
-
-- Es asociado: Booleano, Obligatorio (Por defecto: Falso). Indica si está registrado como socio de pleno derecho.
-
-- Fecha alta de socio: Fecha, Opcional.
-
-- Fecha baja de socio: Fecha, Opcional.
-
-- Motivo de baja: Cadena de texto, Opcional.
-
-- Es propietario anónimo: Booleano, Obligatorio (Por defecto: Falso).
-
-- Deuda total pendiente: Numérico decimal, Obligatorio (Campo derivado/calculado).]]></markdownProperty>
+]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="urgency" category="priority" tooltip="urgency" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>

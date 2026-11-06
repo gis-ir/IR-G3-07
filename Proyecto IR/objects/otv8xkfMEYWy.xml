@@ -1,8 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="otv8xkfMEYWy" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[dato específico]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[descripción del dato especifico]]></markdownProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[datos específicos]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[- DNI / NIF / CIF: Cadena de texto, Obligatorio, Único. Documento de identidad legal.
+
+- Nombre: Cadena de texto, Obligatorio.
+
+- Apellidos: Cadena de texto, Opcional (Nulo en personas jurídicas).
+
+- Correo electrónico: Cadena de texto, Opcional.
+
+- Teléfono de contacto: Cadena de texto, Opcional.
+
+- Dirección de notificación: Cadena de texto, Opcional.
+
+- Es asociado: Booleano, Obligatorio (Por defecto: Falso). Indica si está registrado como socio de pleno derecho.
+
+- Fecha alta de socio: Fecha, Opcional.
+
+- Fecha baja de socio: Fecha, Opcional.
+
+- Motivo de baja: Cadena de texto, Opcional.
+
+- Es propietario anónimo: Booleano, Obligatorio (Por defecto: Falso).
+
+- Deuda total pendiente: Numérico decimal, Obligatorio (Campo derivado/calculado).]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

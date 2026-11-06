@@ -15,17 +15,7 @@
 
 En concreto, los siguientes datos específicos:
 
-- Código de Parcela: Cadena de texto, Obligatorio, Único. Identificador interno de la parcela.
-
-- Referencia Catastral: Cadena de texto, Opcional.
-
-- Superficie (m²): Numérico decimal (m^2 > 0), Obligatorio.
-
-- Localización / Calle interna: Cadena de texto, Opcional.
-
-- Deuda acumulada de la parcela: Numérico decimal, Obligatorio (Campo derivado).
-
-- Estado: Enumerado (Activa, Inactiva), Obligatorio.]]></markdownProperty>
+]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="urgency" category="priority" tooltip="urgency" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>

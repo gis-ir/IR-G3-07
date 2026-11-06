@@ -1,8 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="gBYnJovr2SP8" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[dato específico]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[descripción del dato especifico]]></markdownProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[datos específicos]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[- ID Cobro: Cadena de texto / Numérico, Obligatorio, Único.
+
+
+- ID Propietario: Referencia a RI-001, Obligatorio.
+
+
+- Fecha de cobro: Fecha, Obligatorio.
+Importe cobrado: Numérico decimal ($> 0$), Obligatorio.
+
+
+- Forma de pago: Enumerado (Efectivo, Transferencia Bancaria, Domiciliación, Bizum), Obligatorio.
+
+
+- Referencia / Justificante bancario: Cadena de texto, Opcional.
+
+
+- Cuenta de Tesorería de destino: Referencia a RI-008, Obligatorio.
+
+
+- Observaciones: Cadena de texto, Opcional.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

@@ -15,25 +15,7 @@
 un registro de una deuda o cobro reclamado a un propietario por una cuota en un determinado periodo.
  En concreto, los siguientes datos específicos:
 
-- ID Cargo: Cadena de texto / Numérico, Obligatorio, Único.
-
-- ID Propietario: Referencia a RI-001, Obligatorio.
-
-- ID Parcela: Referencia a RI-002, Opcional (Válido para cargos vinculados a parcela).
-
-- ID Cuota origen: Referencia a RI-004, Opcional.
-
-- Concepto: Cadena de texto, Obligatorio.
-
-- Periodo / Fecha devengo: Fecha / Mes-Año, Obligatorio.
-
-- Importe total cargo: Numérico decimal, Obligatorio.
-
-- Importe pendiente: Numérico decimal , Obligatorio.
-
-- Estado del cargo: Enumerado (Pendiente, Pagado parcialmente, Pagado totalmente, Anulado), Obligatorio.
-
-- Fecha de generación: Fecha y hora, Obligatorio.]]></markdownProperty>
+]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="urgency" category="priority" tooltip="urgency" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
