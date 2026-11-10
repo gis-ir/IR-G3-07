@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3Lv9LmtjzkSk" classes="traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section" selectedCategory="detail">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Párrafo]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2026-11-10</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[Este proyecto tiene como objetivo el desarrollo de una aplicación software para la gestión de cuotas de la Asociación La Arada, una comunidad de propietarios de parcelas rústicas. La aplciación nos permitirá digitalizar la parte de tesorería de la asociación
+sustituyendo el actual sistema en papel y automatizando el cálculo de cuotas y la consulta de infromación.
+El alcance del sistema incluye:
+
+- Gestión de propietarios y parcelas, registro y consulta de sus datos, incluyendo los porcentajes de propiedad, las fechas de alta y demás información relevante. 
+
+- Definición de cuotas ordinarias y extraordinarias.
+
+- Consulta de información y futuras implementaciones para los propietarios de parcelas.
+
+
+]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
