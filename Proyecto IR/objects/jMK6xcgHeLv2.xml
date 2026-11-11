@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="jMK6xcgHeLv2" classes="conditional-branch" acceptedChildren="use-case-step" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Rama condicional]]></stringProperty>
+    <markdownProperty name="condition" category="general" tooltip="branch-condition"><![CDATA[algún porcentaje es cero o negativo, hay un propietario repetido o alguna fecha de inicio no es válida, el sistema indica el error.]]></markdownProperty>
+    <enumProperty name="termination" category="general" tooltip="branch-termination" choices="resumes ok-ending failure-ending">failure-ending</enumProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children numbered="true"/>
+</object>
