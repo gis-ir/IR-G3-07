@@ -21,7 +21,7 @@ Descripción:
 Cuota Ordinaria Mensual: El segundo domingo de cada mes, el Tesorero calcula a mano la cuota correspondiente a cada finca. Al tratarse de suelo rústico, toma la superficie en metros cuadrados y aplica manualmente las fórmulas:  Para los primeros 1.000{ m}^2 (o parte proporcional), aplica una tarifa base estándar de 15 €.  Para los metros cuadrados que exceden de 1.000{ m}^2, aplica un cálculo manual a razón de 15 € por cada 1.000{ m}^2 adicionales con un 50% de descuento (es decir, 7,50 € por cada 1.000{ m}^2 extra).
  
 Cuota Extraordinaria: Ante incidencias espontáneas o averías en las infraestructuras de la comunidad (como roturas en los transformadores de luz o reparación de caminos), el Tesorero anota el coste total del presupuesto y calcula mediante operaciones aritméticas manuales la cuota extraordinaria a repartir entre todos los vecinos.]]></markdownProperty>
-    <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[]]></fileProperty>
+    <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[2 (1).jpg]]></fileProperty>
     <enumProperty name="importance" category="detail" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">98</integerProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="traceable-object business-requirement" traceType=":Proteus-dependency"/>
